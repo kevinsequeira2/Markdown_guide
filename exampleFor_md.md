@@ -21,7 +21,7 @@
 
 # Imagenes
 
-![crack](C:/Users/kevin/Downloads/Avantica.png);
+![crack](C:\Users\kevin\Downloads\Avantica.png)
 
 # Enlaces
 
@@ -43,3 +43,4 @@ Code from markdown
 Lunes | Martes | Miercoles
 ---|:---:|---
 Uno | DOS | Tres
+
