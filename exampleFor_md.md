@@ -27,5 +27,19 @@
 
 [texto]()enlaces
 
+# Code
+
+Markdown is a important tool
+for `jobs`
 
 
+```Languege_of_programming
+Code from markdown
+
+```
+
+> Java is the best
+
+Lunes | Martes | Miercoles
+---|:---:|---
+Uno | DOS | Tres
